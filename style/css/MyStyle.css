@@ -1,0 +1,41 @@
+.bg-image-vertical {
+  position: relative;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: auto 100%;
+}
+
+@media (min-width: 1025px) {
+  .h-custom-2 {
+    height: 100%;
+  }
+}
+
+
+
+
+
+
+
+.pasDeResultat{
+  font-weight: bold;
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+  opacity: 1;
+  transition: opacity 0.6s;
+  margin-bottom: 15px;
+  text-align : center ;
+  background-color: #2196F3;
+}
+
+.MaGallerieH2{
+	
+	text-align: center;
+  
+}
+.DivGallerie{
+  border: solid 10px white;
+  background-color: black;
+}
